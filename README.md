@@ -57,6 +57,8 @@ Current progress: 0% (=---------)
 
 This project is licensed under the [Apache License 2.0](LICENSE).
 
+I totally don't know under what license the recent client is licensed, so I just used Apache License 2.0.
+
 <details>
 <summary>What is Apache License 2.0?</summary>
 <h3>About Apache License 2.0</h3>
