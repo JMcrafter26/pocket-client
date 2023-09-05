@@ -32,9 +32,9 @@ Support this project by giving it a STAR. By doing this you will also stay updat
 
 ## Progress
 
-- [ ] Make it work on mobile
+- [x] Make it work on mobile
 - [ ] Bug fixes
-- [ ] Bug fixes
+- [x] Add custom branding 
 - [ ] Bug fixes
 - [ ] Optimize the code
 - [ ] Make it more user friendly
@@ -43,7 +43,7 @@ Support this project by giving it a STAR. By doing this you will also stay updat
 - [ ] Make it ready for use
 - [ ] Publish it
 
-Current progress: 0% (=---------)
+Current progress: 20% (==--------)
 
 ## Some screenshots and mockups (all photoshopped, not real)
 
