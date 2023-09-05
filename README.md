@@ -19,6 +19,10 @@ An eaglercraft 1.8 mobile client forked from recent client.
 
 This repository does not contain any code or resources from Minecraft / eaglercraft. This project is under development and is not ready for use. Please do not ask for support in the issues section of this repository. If you have any questions, please join the [Not Existent Discord](#) or contact me via Discord DM: `Cufiy`.
 
+[![Support us](https://reporoster.com/stars/dark/JMcrafter26/pocket-client)](https://github.com/JMcrafter26/pocket-client/stargazers)
+
+Support this project by giving it a STAR. By doing this you will also stay updated when new releases are published! 
+
 ## Goals
 
 - Should be able to run on mobile (Android and iOS)
@@ -28,9 +32,9 @@ This repository does not contain any code or resources from Minecraft / eaglercr
 
 ## Progress
 
-- [ ] Make it work on mobile
+- [x] Make it work on mobile
 - [ ] Bug fixes
-- [ ] Bug fixes
+- [x] Add custom branding 
 - [ ] Bug fixes
 - [ ] Optimize the code
 - [ ] Make it more user friendly
@@ -39,7 +43,7 @@ This repository does not contain any code or resources from Minecraft / eaglercr
 - [ ] Make it ready for use
 - [ ] Publish it
 
-Current progress: 0% (=---------)
+Current progress: 20% (==--------)
 
 ## Some screenshots and mockups (all photoshopped, not real)
 
