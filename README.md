@@ -1,8 +1,8 @@
 # Pocket Client
 
-![Banner](images/loading%20white%20bg@4x.png)
+![Banner](images/real/2.png)
 
-An eaglercraft 1.8 mobile client forked from recent client.
+An eaglercraft 1.8 mobile client forked from resent client.
 
 ## Table of Contents
 
@@ -11,17 +11,17 @@ An eaglercraft 1.8 mobile client forked from recent client.
 - [IMPORTANT](#important)
   - [Goals](#goals)
   - [Progress](#progress)
-  - [Some screenshots and mockups (all photoshopped, not real)](#some-screenshots-and-mockups-all-photoshopped-not-real)
+  - [Some screenshots (real screenshots)](#some-screenshots-real-screenshots)
   - [Credits](#credits)
   - [License](#license)
 
 # IMPORTANT
 
-This repository does not contain any code or resources from Minecraft / eaglercraft. This project is under development and is not ready for use. Please do not ask for support in the issues section of this repository. If you have any questions, please join the [Not Existent Discord](#) or contact me via Discord DM: `Cufiy`.
+This repository does not contain any code or resources from Minecraft / eaglercraft. This project is under development and is not ready for use. Please do not ask for support in the issues section of this repository. If you have any questions, please join the [Not Existent Discord](#pocket-client) or contact me via Discord DM: `Cufiy`.
 
 [![Support us](https://reporoster.com/stars/dark/JMcrafter26/pocket-client)](https://github.com/JMcrafter26/pocket-client/stargazers)
 
-Support this project by giving it a STAR. By doing this you will also stay updated when new releases are published! 
+Support this project by giving it a STAR. By doing this you will also stay updated when new releases are published!
 
 ## Goals
 
@@ -34,7 +34,7 @@ Support this project by giving it a STAR. By doing this you will also stay updat
 
 - [x] Make it work on mobile
 - [ ] Bug fixes
-- [x] Add custom branding 
+- [x] Add custom branding
 - [ ] Bug fixes
 - [ ] Optimize the code
 - [ ] Make it more user friendly
@@ -45,16 +45,17 @@ Support this project by giving it a STAR. By doing this you will also stay updat
 
 Current progress: 20% (==--------)
 
-## Some screenshots and mockups (all photoshopped, not real)
+## Some screenshots (real screenshots)
 
-![Loading screen](./images/loading%20white%20bg@4x.png)
-![Banner](./images/banner%20white%20bg@4x.png)
-![Logo](./images/logo%20white%20bg@4x.png)
+![Screenshot 1](./images/real/2.png)
+![Screenshot 5](./images/real/6.png)
+![Screenshot 6](./images/real/7.png)
 
+(In-Game screenshots coming soon)
 ## Credits
 
 - Eaglercraft by lax1dude
-- Recent client by ??
+- Resent client by ??
 - Icons8 for some icons
 
 ## License
