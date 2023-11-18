@@ -17,6 +17,8 @@ An eaglercraft 1.8 mobile client forked from resent client.
 
 # IMPORTANT
 
+HELP NEEDED! I need help to deobfuscate the resent script. Because of this further development is paused. If someone could help please open an pull request or contact me on discord. 
+
 This repository does not contain any code or resources from Minecraft / eaglercraft. This project is under development and is not ready for use. Please do not ask for support in the issues section of this repository. If you have any questions, please join the [Not Existent Discord](#pocket-client) or contact me via Discord DM: `Cufiy`.
 
 [![Support us](https://reporoster.com/stars/dark/JMcrafter26/pocket-client)](https://github.com/JMcrafter26/pocket-client/stargazers)
