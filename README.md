@@ -1,66 +1,108 @@
-# EaglercraftX 1.8
+# Pocket Client
 
-### Play real Minecraft 1.8 in your browser, currently only supports multiplayer
+## OFFICIALLY BROKEN BY @wxnnvs
 
-![EaglercraftX 1.8 Screenshot Main Menu](https://media.discordapp.net/attachments/1042594789943689327/1080697078583394355/eaglerx-480p.png)
+![Banner](images/real/2.png)
 
-## ATTENTION MOJANG/MICROSOFT EMPLOYEE ASSIGNED TO STALK ME:
+An eaglercraft 1.8 mobile client forked from resent client.
 
-### THIS REPOSITORY DOES NOT CONTAIN YOUR INTELLECTUAL PROPERTY
+## Table of Contents
 
-### FILING A FALSE DMCA IS ILLEGAL AND IMMORAL
+- [Pocket Client](#pocket-client)
+  - [Table of Contents](#table-of-contents)
+- [IMPORTANT](#important)
+  - [Goals](#goals)
+  - [Progress](#progress)
+  - [Some screenshots (real screenshots)](#some-screenshots-real-screenshots)
+  - [Credits](#credits)
+  - [License](#license)
 
-### This repository contains:
+# IMPORTANT
 
- - **Utilities to decompile Minecraft 1.8 and apply patch files to it**
- - **Source code to provide the LWJGL keyboard, mouse, and OpenGL APIs in a browser**
- - **Patch files to mod the Minecraft 1.8 source code to make it browser compatible**
- - **Browser-modified portions of Minecraft 1.8's open-source dependencies**
- - **Plugins for Minecraft servers to allow the eagler client to connect to them**
+HELP NEEDED! I need help to deobfuscate the resent script. Because of this further development is paused. If someone could help please open an pull request or contact me on discord. 
 
-### This repository does NOT contain:
+This repository does not contain any code or resources from Minecraft / eaglercraft. This project is under development and is not ready for use. Please do not ask for support in the issues section of this repository. If you have any questions, please join the [Not Existent Discord](#pocket-client) or contact me via Discord DM: `Cufiy`.
 
- - **Any portion of the decompiled Minecraft 1.8 source code or resources**
- - **Any portion of Mod Coder Pack and it's config files**
- - **Data that can be used alone to reconstruct portions of the game's source code**
- - **Software configured by default to allow users to play without owning a copy of Minecraft**
+[![Support us](https://reporoster.com/stars/dark/JMcrafter26/pocket-client)](https://github.com/JMcrafter26/pocket-client/stargazers)
 
-## Getting Started:
+Support this project by giving it a STAR. By doing this you will also stay updated when new releases are published!
 
-### To compile the latest version of the client, on Windows:
+## Goals
 
-1. Make sure you have at least Java 11 installed and added to your PATH
-2. Download (clone) this repository to your computer
-3. Double click `CompileLatestClient.bat`, a GUI resembling a classic windows installer should open
-4. Follow the steps shown to you in the new window to finish compiling
+- Should be able to run on mobile (Android and iOS)
+- Responsive UI
+- Should be able to run on low-end devices (optional)
+- UI just like Minecraft Pocket Edition
 
-### To compile the latest version of the client, on Linux/macOS:
+## Progress
 
-1. Make sure you have at least Java 11 installed
-2. Download (clone) this repository to your computer
-3. Open a terminal in the folder the repository was cloned to
-4. Type `chmod +x CompileLatestClient.sh` and hit enter
-5. Type `./CompileLatestClient.sh` and hit enter, a GUI resembling a classic windows installer should open
-6. Follow the steps shown to you in the new window to finish compiling
+- [x] Make it work on mobile
+- [ ] Bug fixes
+- [x] Add custom branding
+- [ ] Bug fixes
+- [ ] Optimize the code
+- [ ] Make it more user friendly
+- [ ] Change the UI
+- [ ] Bug fixes
+- [ ] Make it ready for use
+- [ ] Publish it
 
-## Making a TOS compliant Server:
+Current progress: 20% (==--------)
 
-**EaglercraftX 1.8's server is a BungeeCord/Waterfall PLUGIN, not an entire "fork" of bungeecord like the 1.5 Eaglerbungee was, and I can't believe I have to clarify this too but the EaglerXBungee 1.8 plugin is not compatible with the old 1.5 bungee, you must migrate to the latest version of official BungeeCord/Waterfall to use it**
+## Some screenshots (real screenshots)
 
-Simply set up the latest version of BungeeCord or Waterfall and download [EaglerXBungee-Latest.jar](https://gitlab.com/lax1dude/eaglercraftx-1.8/-/raw/main/gateway/EaglercraftXBungee/EaglerXBungee-Latest.jar) and place it in the plugins directory.
+![Screenshot 1](./images/real/2.png)
+![Screenshot 5](./images/real/6.png)
+![Screenshot 6](./images/real/7.png)
 
-Then to actually log in to the server with Eaglercraft, first join your server using vanilla Minecraft Java Edition 1.8 and run the new `/eagler` command to set a password. Then leave the server and switch to your EaglercraftX client. 
+(In-Game screenshots coming soon)
+## Credits
 
-Set your EaglercraftX username to the same username as the vanilla minecraft account you set the password with, then when you try to join your server it will present you with a login screen where you can enter the password you set. If the password is correct it will let you join the server.
+- Eaglercraft by lax1dude
+- Resent client by ??
+- Icons8 for some icons
 
-If it is required for testing purposes, you can set `online_mode` to `false` on BungeeCord/Waterfall's config.yml to disable password system and join the server without setting a password like the old Eaglercraft. This should never be used in production because it allows you to play without owning a Minecraft account which violates the TOS.
+## License
 
-A detailed plugin config guide will be added here too eventually
+This project is licensed under the [Apache License 2.0](LICENSE).
 
-## Contributing:
+I totally don't know under what license the recent client is licensed, so I just used Apache License 2.0.
 
-This part of the guide is incomplete
+<details>
+<summary>What is Apache License 2.0?</summary>
+<h3>About Apache License 2.0</h3>
+<hr>
+<p>
+The Apache License 2.0 is a permissive free software license written by the Apache Software Foundation (ASF). The Apache License requires preservation of the copyright
+notice and disclaimer. Like other free software licenses, the license allows the user of the software the freedom to use the software for any purpose, to distribute it,
+to modify it, and to distribute modified versions of the software, under the terms of the license, without concern for royalties.
+</p>
+You are allowed to:
+<ul>
+<li>Commercial Use</li>
+<li>Modify</li>
+<li>Distribute</li>
+<li>Sublicense</li>
+<li>Private Use</li>
+<li>Use Patent Claims</li>
+<li>Place Warranty</li>
+</ul>
+You are not allowed to:
+<ul>
+<li>Hold Liable</li>
+<li>Publish under a different license</li>
+<li>Sell</li>
+<li>Publish under a different name</li>
+</ul>
 
-## Developing a Client:
-
-There is currently no system in place to make forks of 1.8 and merge commits made to the patch files in this repository with the patch files or workspace of the fork, you're on your own if you try to keep a fork of this repo for reasons other than to contribute to it
+Additional terms include:
+<ul>
+<li>State Changes</li>
+<li>Disclose Source</li>
+<li>Include Original</li>
+<li>Indemnify</li>
+<li>Network Use</li>
+<li>Same License</li>
+<li>Creator Attribution</li>
+</ul>
+</details>
