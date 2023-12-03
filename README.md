@@ -1,6 +1,8 @@
 # Pocket Client
 
-An Eaglercraft 1.8 mobile client based on Resent.
+![Banner](images/real/2.png)
+
+An eaglercraft 1.8 mobile client forked from resent client.
 
 ## Progress
 
