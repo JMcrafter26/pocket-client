@@ -1,4 +1,4 @@
-# Pocket Client
+# Pocket Client (WIP)
 
 ![Banner](images/real/2.png)
 
