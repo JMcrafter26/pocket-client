@@ -9,6 +9,12 @@ An eaglercraft 1.8 mobile client forked from resent client.
 - 🟠 Port mobile support (uncomplete and untested)
 - ⚪ Pocket Edition GUI
 
+### For now try this
+
+<https://github.com/FlamedDogo99/EaglerMobile>
+
+<https://github.com/irv77/EaglerPocketMobile>
+
 ### This repository contains:
 
  - **Utilities to decompile Minecraft 1.8 and apply patch files to it**
