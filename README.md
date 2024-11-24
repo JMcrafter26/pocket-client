@@ -6,6 +6,8 @@ An eaglercraft 1.8 mobile client forked from resent client.
 
 # Just use [Eaglercraft in Touch Mode](https://eaglercraft.com)
 
+It's everything you are looking for, that's the reason I archived this repo. Thanks everyone
+
 ## ~~Progress~~
 
 - 🟠 Port mobile support (uncomplete and untested)
