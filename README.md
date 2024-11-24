@@ -4,7 +4,9 @@
 
 An eaglercraft 1.8 mobile client forked from resent client.
 
-## Progress
+# Just use [Eaglercraft in Touch Mode](https://eaglercraft.com)
+
+## ~~Progress~~
 
 - 🟠 Port mobile support (uncomplete and untested)
 - ⚪ Pocket Edition GUI
